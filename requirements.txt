@@ -196,8 +196,8 @@ nbconvert==5.6.1
 nbformat==5.0.6
 networkx==2.4
 nibabel==3.0.2
-nltk==3.2.5
-notebook==5.2.2
+nltk==3.4.5
+notebook==5.7.8
 np-utils==0.5.12.1
 numba==0.48.0
 numexpr==2.7.1
@@ -238,7 +238,7 @@ prometheus-client==0.7.1
 promise==2.3
 prompt-toolkit==1.0.18
 protobuf==3.10.0
-psutil==5.4.8
+psutil==5.6.6
 psycopg2==2.7.6.1
 ptvsd==5.0.0a12
 ptyprocess==0.6.0
@@ -276,7 +276,7 @@ python-slugify==4.0.0
 python-utils==2.4.0
 pytz==2018.9
 PyWavelets==1.1.1
-PyYAML==3.13
+PyYAML==5.1 
 pyzmq==19.0.0
 qtconsole==4.7.3
 QtPy==1.9.0
@@ -317,7 +317,7 @@ tables==3.4.4
 tabulate==0.8.7
 tbb==2020.0.133
 tblib==1.6.0
-tensorboard==1.15.0
+tensorboard==1.15.2
 tensorboard-plugin-wit==1.6.0.post3
 tensorboardcolab==0.0.22
 tensorflow==2.2.0rc3
