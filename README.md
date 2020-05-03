@@ -10,4 +10,4 @@ over purely superivsed learning in this case.
 # Extending and reusing the basic idea from these sources:
 * https://towardsdatascience.com/semi-supervised-learning-with-gans-9f3cb128c5e
 * https://medium.com/@jos.vandewolfshaar/semi-supervised-learning-with-gans-23255865d0a4
-
+* https://www.youtube.com/watch?v=j_-JaMPnhr0
